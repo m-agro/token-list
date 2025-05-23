@@ -1,0 +1,19 @@
+{
+  "chainId": 101,
+  "address": "2zhKM3FzEnLhbvUaaGiKQRnCi4EoWogJcG365CxF733Q",
+  "symbol": "MAGRO",
+  "name": "MAGRO Token",
+  "decimals": 9,
+  "logoURI": "https://your.domain/path/to/magro-logo.png",
+  "tags": ["utility-token", "defi", "agriculture"],
+  "extensions": {
+    "website": "https://token.magro.lt",
+    "serumV3Usdc": "",
+    "serumV3Usdt": "",
+    "coingeckoId": "",
+    "twitter": "https://twitter.com/your_magro_account",
+    "discord": "https://discord.gg/yourserver",
+    "medium": "",
+    "github": "https://github.com/your-org/magro"
+  }
+}
